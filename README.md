@@ -16,7 +16,8 @@ Written in Qt-Creator
 5. Run it. 
 
 ## Dependencies
-sudo apt install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qml-module-qtmultimedia
+sudo apt install</br>
+qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qml-module-qtmultimedia
 
 ## Info
 On Linux it utilizes GStreamer</br>
