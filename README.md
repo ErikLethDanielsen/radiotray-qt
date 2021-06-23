@@ -19,8 +19,8 @@ Written in Qt-Creator
 sudo apt install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qml-module-qtmultimedia
 
 ## Info
-On Linux it utilizes GStreamer
-https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/using.html?gi-language=c
+On Linux it utilizes GStreamer</br>
+https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/using.html?gi-language=c</br>
 gst-launch-1.0 playbin uri=https://netradio.radio4.dk/radio4
 
 ## Contributing
