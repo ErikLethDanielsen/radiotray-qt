@@ -15,6 +15,14 @@ Written in Qt-Creator
 4. exe is in /Output folder
 5. Run it. 
 
+## Dependencies
+sudo apt install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qml-module-qtmultimedia
+
+## Info
+On Linux it utilizes GStreamer
+https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/using.html?gi-language=c
+gst-launch-1.0 playbin uri=https://netradio.radio4.dk/radio4
+
 ## Contributing
 
 ## License
