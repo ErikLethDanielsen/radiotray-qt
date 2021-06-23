@@ -13,7 +13,7 @@ Written in Qt-Creator
 2. Open in qt-creator
 3. Run / Build
 4. exe is in /Output folder
-5. Run it.
+5. Run it. 
 
 ## Contributing
 
