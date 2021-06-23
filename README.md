@@ -6,7 +6,7 @@ Written in Qt-Creator
 ###### Right Click System Tray Icon
 ![right](screenshots/right.jpg)
 ###### Left Click System Tray Icon
-![right](screenshots/right.jpg)
+![right](screenshots/left.jpg)
 
 ## Installation
 1. git clone https://github.com/ErikLethDanielsen/radiotray-qt.git
